@@ -103,7 +103,7 @@
 			"file": "hello_world.boo",
 			"settings":
 			{
-				"buffer_size": 20,
+				"buffer_size": 21,
 				"line_ending": "Windows"
 			}
 		}
@@ -217,15 +217,15 @@
 					"file": "hello_world.boo",
 					"settings":
 					{
-						"buffer_size": 20,
+						"buffer_size": 21,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								20,
-								20
+								21,
+								21
 							]
 						],
 						"settings":
@@ -334,6 +334,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"",
+				"/C/Users/shimdh/Documents/PythonProjects/mrd_server/mrd_server.sublime-project"
+			]
 		],
 		"width": 462.0
 	},
